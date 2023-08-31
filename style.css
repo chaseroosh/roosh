@@ -1,0 +1,74 @@
+.nav li a{
+    color: #FFF5E0 !important;
+}
+
+.header{
+    background-color: #FF6969;
+}
+
+.emoji{
+    color: #FFF5E0;
+}
+
+h1{
+    font-size: 75px;
+    font-family: 'Tanker', sans-serif;
+    color: #FF6969;
+}
+
+p{
+    font-family: 'Chillax', sans-serif;
+    color: #BB2525;
+}
+
+body{
+    background-color: #FFF5E0;
+}
+
+.self-portrait{
+    border-radius: 100%;
+}
+
+.carousel-image{
+    opacity: 0.7;
+    border-radius: 27px;
+}
+
+#myCarousel{
+    border-radius: 30px;
+}
+
+footer a{
+    color: #BB2525;
+}
+
+.projects h2{
+    display: flex;
+    justify-content: center;
+
+}
+
+.project-title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Chillax', sans-serif;
+    font-weight: 500;
+    font-size: xxx-large;
+    color: #FF6969;
+}
+
+.babypic{
+    border-radius: 100%;
+}
+
+.babypic p{
+    font-family: 'Chillax', sans-serif;
+    font-weight: 300;
+}
+
+p a{color: #FF6969}
+p a:hover{
+    background-color: #BB2525; color: #FFF5E0;
+    border: 1px solid #BB2525;
+    border-radius: 30px;
+}
